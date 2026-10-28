@@ -69,7 +69,7 @@
   title: XMS dotnet API for IBM MQ
   type: API
   icon: api
-- url: https://github.com/ibm-messaging/mq-asyncapi-java-template/blob/main/tutorials/IBMMQ.md
+- url: https://github.com/asyncapi/java-template/blob/master/tutorials/IBMMQ.md
   title: AsyncAPI API for IBM MQ
   type: API
   icon: api
